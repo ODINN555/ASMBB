@@ -12,8 +12,8 @@ Features:
 
 # How to use
 
-#Builder
-In Minecraft, use the command /asmbb new [name] to start a new project and editing it. after you finished your editing click on the save button in your hot bar and the project will be saved inside the config.yml of the plugin.
+# Multi Block Builder
+After downloading the plugin,iIn Minecraft, use the command /asmbb new [name] to start a new project and editing it. after you finished your editing click on the save button in your hot bar and the project will be saved inside the config.yml of the plugin.
 
 List of commands:
 /ASMBB new [name] - creates a new project.
